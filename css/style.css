@@ -17,3 +17,9 @@ padding: 10px;
 .males{
     float: right;
 }
+table, th, td {
+    border: 1px solid black;
+  }
+  td th{
+      padding: 10px;
+  }
