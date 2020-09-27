@@ -1,5 +1,5 @@
-# akan-nam
-This is the Akan project, 207/9/2020
+# akan-name
+This is the Akan name project, 207/9/2020
 Author: Bonte Emma BANA
 Description
 This project display akan names according to the dates.
