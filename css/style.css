@@ -1,11 +1,19 @@
+*{font-family: 'Be Vietnam', sans-serif;}
+
 .description{
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("https://www.artdex.com/blog/wp-content/uploads/2020/07/What-Are-the-Different-Types-of-Three-Dimensional-Art2.jpg");
 background-repeat: no-repeat;
 background-size: cover;
-height: 120vh;
+height: 80vh;
 color: white;
 padding: 10px;
 }
 .calculator{
     background-color: royalblue;
+}
+.females{
+    float: left;
+}
+.males{
+    float: right;
 }
