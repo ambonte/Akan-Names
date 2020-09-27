@@ -5,7 +5,7 @@
 background-repeat: no-repeat;
 background-size: cover;
 height: 80vh;
-color: #0099ff;
+color: whitesmoke;
 padding: 10px}
 
 .description h1{
@@ -14,7 +14,7 @@ padding: 10px}
 
 }
 .description p{
-    color: #0099ff;
+    color: whitesmoke;
 }
 .calculator{
     background-color: rgba(0,0,0,0.8);
